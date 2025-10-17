@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# Hello Everyone!
+### Welcome to My GitHub profile :)
+### Thank you for visiting 😁
+### Have a nice day 😎
+
+#### oct-17-2025
 <!--
 **nsfis/nsfis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
